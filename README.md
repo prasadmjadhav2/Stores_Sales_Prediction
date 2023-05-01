@@ -1,2 +1,2 @@
-# Stores_Sales_Prediction
-Stores Sales Prediction
+# Stores Sales Prediction (Machine Learning Project
+Documents Link : https://drive.google.com/drive/folders/1FFGsh1qYyLFhoCcFNYaenclNFH77pLDR
